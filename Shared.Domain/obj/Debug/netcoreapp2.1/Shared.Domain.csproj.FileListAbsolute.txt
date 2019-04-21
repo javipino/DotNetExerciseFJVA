@@ -1,0 +1,16 @@
+C:\Users\José María\source\repos\DotNetExercise\Shared.Domain\bin\Debug\netcoreapp2.1\Shared.Domain.deps.json
+C:\Users\José María\source\repos\DotNetExercise\Shared.Domain\bin\Debug\netcoreapp2.1\Shared.Domain.dll
+C:\Users\José María\source\repos\DotNetExercise\Shared.Domain\bin\Debug\netcoreapp2.1\Shared.Domain.pdb
+C:\Users\José María\source\repos\DotNetExercise\Shared.Domain\obj\Debug\netcoreapp2.1\Shared.Domain.csproj.CoreCompileInputs.cache
+C:\Users\José María\source\repos\DotNetExercise\Shared.Domain\obj\Debug\netcoreapp2.1\Shared.Domain.AssemblyInfoInputs.cache
+C:\Users\José María\source\repos\DotNetExercise\Shared.Domain\obj\Debug\netcoreapp2.1\Shared.Domain.AssemblyInfo.cs
+C:\Users\José María\source\repos\DotNetExercise\Shared.Domain\obj\Debug\netcoreapp2.1\Shared.Domain.dll
+C:\Users\José María\source\repos\DotNetExercise\Shared.Domain\obj\Debug\netcoreapp2.1\Shared.Domain.pdb
+D:\Backup Neoris\DotNetExercise\Shared.Domain\bin\Debug\netcoreapp2.1\Shared.Domain.deps.json
+D:\Backup Neoris\DotNetExercise\Shared.Domain\bin\Debug\netcoreapp2.1\Shared.Domain.dll
+D:\Backup Neoris\DotNetExercise\Shared.Domain\bin\Debug\netcoreapp2.1\Shared.Domain.pdb
+D:\Backup Neoris\DotNetExercise\Shared.Domain\obj\Debug\netcoreapp2.1\Shared.Domain.csproj.CoreCompileInputs.cache
+D:\Backup Neoris\DotNetExercise\Shared.Domain\obj\Debug\netcoreapp2.1\Shared.Domain.AssemblyInfoInputs.cache
+D:\Backup Neoris\DotNetExercise\Shared.Domain\obj\Debug\netcoreapp2.1\Shared.Domain.AssemblyInfo.cs
+D:\Backup Neoris\DotNetExercise\Shared.Domain\obj\Debug\netcoreapp2.1\Shared.Domain.dll
+D:\Backup Neoris\DotNetExercise\Shared.Domain\obj\Debug\netcoreapp2.1\Shared.Domain.pdb

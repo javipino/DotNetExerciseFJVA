@@ -1,0 +1,14 @@
+D:\Backup Neoris\DotNetExercise\Shared.Mapping\bin\Debug\netcoreapp2.1\Shared.Mapping.deps.json
+D:\Backup Neoris\DotNetExercise\Shared.Mapping\bin\Debug\netcoreapp2.1\Shared.Mapping.dll
+D:\Backup Neoris\DotNetExercise\Shared.Mapping\obj\Debug\netcoreapp2.1\Shared.Mapping.csproj.CoreCompileInputs.cache
+D:\Backup Neoris\DotNetExercise\Shared.Mapping\obj\Debug\netcoreapp2.1\Shared.Mapping.AssemblyInfoInputs.cache
+D:\Backup Neoris\DotNetExercise\Shared.Mapping\obj\Debug\netcoreapp2.1\Shared.Mapping.AssemblyInfo.cs
+D:\Backup Neoris\DotNetExercise\Shared.Mapping\bin\Debug\netcoreapp2.1\Shared.Mapping.pdb
+D:\Backup Neoris\DotNetExercise\Shared.Mapping\bin\Debug\netcoreapp2.1\Shared.Domain.dll
+D:\Backup Neoris\DotNetExercise\Shared.Mapping\bin\Debug\netcoreapp2.1\Shared.ViewModel.dll
+D:\Backup Neoris\DotNetExercise\Shared.Mapping\bin\Debug\netcoreapp2.1\Shared.Domain.pdb
+D:\Backup Neoris\DotNetExercise\Shared.Mapping\bin\Debug\netcoreapp2.1\Shared.ViewModel.pdb
+D:\Backup Neoris\DotNetExercise\Shared.Mapping\obj\Debug\netcoreapp2.1\Shared.Mapping.csprojAssemblyReference.cache
+D:\Backup Neoris\DotNetExercise\Shared.Mapping\obj\Debug\netcoreapp2.1\Shared.Mapping.csproj.CopyComplete
+D:\Backup Neoris\DotNetExercise\Shared.Mapping\obj\Debug\netcoreapp2.1\Shared.Mapping.dll
+D:\Backup Neoris\DotNetExercise\Shared.Mapping\obj\Debug\netcoreapp2.1\Shared.Mapping.pdb

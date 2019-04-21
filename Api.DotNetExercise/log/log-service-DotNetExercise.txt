@@ -1,0 +1,15 @@
+2019-04-21 10:44:42,970 [9] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost [(null)] - Request starting HTTP/1.1 GET http://localhost:52511/swagger/index.html  
+2019-04-21 10:44:42,970 [10] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost [(null)] - Request starting HTTP/1.1 DEBUG http://localhost:52511/  0
+2019-04-21 10:44:43,109 [10] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost [(null)] - Request finished in 135.0957ms 200 
+2019-04-21 10:44:43,443 [9] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost [(null)] - Request finished in 478.484ms 200 text/html
+2019-04-21 10:44:43,858 [9] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost [(null)] - Request starting HTTP/1.1 GET http://localhost:52511/swagger/v1/swagger.json  
+2019-04-21 10:44:44,080 [9] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost [(null)] - Request finished in 222.376ms 200 application/json;charset=utf-8
+2019-04-21 10:44:52,150 [6] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost [(null)] - Request starting HTTP/1.1 GET http://localhost:52511/api/Users  
+2019-04-21 10:44:52,176 [6] INFO  Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker [(null)] - Route matched with {action = "Get", controller = "Users"}. Executing action Api.Users.Controllers.UsersController.Get (Api.Users)
+2019-04-21 10:44:52,548 [6] INFO  Api.Users.Controllers.UsersController [(null)] - [21/04/2019 10:44:52] INIT: Api.Users.Controllers.UsersController.Get (Api.Users)
+2019-04-21 10:44:52,554 [6] INFO  Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker [(null)] - Executing action method Api.Users.Controllers.UsersController.Get (Api.Users) - Validation state: Valid
+2019-04-21 10:44:52,706 [6] INFO  Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker [(null)] - Executed action method Api.Users.Controllers.UsersController.Get (Api.Users), returned result Microsoft.AspNetCore.Mvc.OkObjectResult in 148.6668ms.
+2019-04-21 10:44:52,708 [6] INFO  Api.Users.Controllers.UsersController [(null)] - [21/04/2019 10:44:52 ] END: Api.Users.Controllers.UsersController.Get (Api.Users) --> Microsoft.AspNetCore.Mvc.OkObjectResult
+2019-04-21 10:44:52,719 [6] INFO  Microsoft.AspNetCore.Mvc.Infrastructure.ObjectResultExecutor [(null)] - Executing ObjectResult, writing value of type 'System.Collections.Generic.List`1[[Shared.ViewModel.Users.UserModel, Shared.ViewModel, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2019-04-21 10:44:52,731 [6] INFO  Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker [(null)] - Executed action Api.Users.Controllers.UsersController.Get (Api.Users) in 551.8448ms
+2019-04-21 10:44:52,746 [6] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost [(null)] - Request finished in 596.5294ms 200 application/json; charset=utf-8

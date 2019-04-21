@@ -1,0 +1,17 @@
+C:\Users\José María\source\repos\DotNetExercise\Shared.ViewModel\bin\Debug\netcoreapp2.1\Shared.ViewModel.deps.json
+C:\Users\José María\source\repos\DotNetExercise\Shared.ViewModel\bin\Debug\netcoreapp2.1\Shared.ViewModel.dll
+C:\Users\José María\source\repos\DotNetExercise\Shared.ViewModel\bin\Debug\netcoreapp2.1\Shared.ViewModel.pdb
+C:\Users\José María\source\repos\DotNetExercise\Shared.ViewModel\obj\Debug\netcoreapp2.1\Shared.ViewModel.csproj.CoreCompileInputs.cache
+C:\Users\José María\source\repos\DotNetExercise\Shared.ViewModel\obj\Debug\netcoreapp2.1\Shared.ViewModel.AssemblyInfoInputs.cache
+C:\Users\José María\source\repos\DotNetExercise\Shared.ViewModel\obj\Debug\netcoreapp2.1\Shared.ViewModel.AssemblyInfo.cs
+C:\Users\José María\source\repos\DotNetExercise\Shared.ViewModel\obj\Debug\netcoreapp2.1\Shared.ViewModel.dll
+C:\Users\José María\source\repos\DotNetExercise\Shared.ViewModel\obj\Debug\netcoreapp2.1\Shared.ViewModel.pdb
+D:\Backup Neoris\DotNetExercise\Shared.ViewModel\bin\Debug\netcoreapp2.1\Shared.ViewModel.deps.json
+D:\Backup Neoris\DotNetExercise\Shared.ViewModel\bin\Debug\netcoreapp2.1\Shared.ViewModel.dll
+D:\Backup Neoris\DotNetExercise\Shared.ViewModel\bin\Debug\netcoreapp2.1\Shared.ViewModel.pdb
+D:\Backup Neoris\DotNetExercise\Shared.ViewModel\obj\Debug\netcoreapp2.1\Shared.ViewModel.csproj.CoreCompileInputs.cache
+D:\Backup Neoris\DotNetExercise\Shared.ViewModel\obj\Debug\netcoreapp2.1\Shared.ViewModel.AssemblyInfoInputs.cache
+D:\Backup Neoris\DotNetExercise\Shared.ViewModel\obj\Debug\netcoreapp2.1\Shared.ViewModel.AssemblyInfo.cs
+D:\Backup Neoris\DotNetExercise\Shared.ViewModel\obj\Debug\netcoreapp2.1\Shared.ViewModel.dll
+D:\Backup Neoris\DotNetExercise\Shared.ViewModel\obj\Debug\netcoreapp2.1\Shared.ViewModel.pdb
+D:\Backup Neoris\DotNetExercise\Shared.ViewModel\obj\Debug\netcoreapp2.1\Shared.ViewModel.csprojAssemblyReference.cache
